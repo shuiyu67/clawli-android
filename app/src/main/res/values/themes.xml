@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Clawli" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">#121212</item>
+        <item name="colorPrimary">#5b8def</item>
+        <item name="colorPrimaryVariant">#3b6bc4</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorSecondary">#81c995</item>
+        <item name="android:statusBarColor">#0d0d0d</item>
+    </style>
+</resources>
