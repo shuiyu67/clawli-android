@@ -1,6 +1,6 @@
 # Clawli 安卓端（clawli-android）
 
-小狸（xiaoli-cli）的手机客户端——原生 Kotlin APK。
+Lix CLI 的手机客户端——原生 Kotlin APK。
 
 - **文本** 直接进 AI 对话
 - **图片/文件** 上传落到电脑磁盘（`xiaoli-cli/clawli_files/`，不喂 AI）
@@ -14,7 +14,7 @@
 
 ## 使用
 
-1. 电脑端启动小狸并打开 Clawli 服务（9079，设置密码）
+1. 电脑端启动 Lix CLI 并打开 Clawli 服务（9079，设置密码）
 2. 手机打开 Clawli App：
    - **局域网模式**：填 PC 的局域网 IP（同 WiFi）+ 密码 → 连接
    - **云模式**：填中继地址（`ws://服务器:8900`）+ 房间码 + 令牌 + 密码 → 连接

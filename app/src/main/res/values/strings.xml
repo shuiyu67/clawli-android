@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Clawli</string>
-    <string name="connect_subtitle">连接电脑上的小狸（xiaoli-cli）</string>
+    <string name="connect_subtitle">连接电脑上的 Lix CLI</string>
     <string name="mode_lan">局域网模式</string>
     <string name="mode_cloud">云模式（中继）</string>
     <string name="hint_lan_host">PC 局域网 IP（如 192.168.1.5）</string>
@@ -12,7 +12,7 @@
     <string name="hint_password">Clawli 密码（PC 上设置的）</string>
     <string name="connect">连接</string>
     <string name="status_connecting">连接中…</string>
-    <string name="hint_input">输入消息给小狸…</string>
+    <string name="hint_input">输入消息给 Lix…</string>
     <string name="send">发送</string>
     <string name="attach">文件</string>
 </resources>
